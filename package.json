@@ -1,0 +1,26 @@
+{
+  "name": "@abcnews/create",
+  "version": "0.0.1",
+  "description": "Initializer for ABC News projects",
+  "bin": {
+    "create": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "abcnews",
+    "create",
+    "init"
+  ],
+  "author": "ABC News",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abcnews/create.git"
+  },
+  "bugs": {
+    "url": "https://github.com/abcnews/create/issues"
+  },
+  "homepage": "https://github.com/abcnews/create#readme"
+}
